@@ -1,5 +1,5 @@
+import Tracker3D from './components/Tracker3D';
+
 export default function App() {
-  return (
-    <div/>
-  );
+  return <Tracker3D />;
 }
